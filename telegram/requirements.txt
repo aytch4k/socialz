@@ -1,0 +1,4 @@
+telethon==1.31.1
+cryptg==0.4.0  # For better performance
+python-dotenv==1.0.0
+pytz==2023.3
